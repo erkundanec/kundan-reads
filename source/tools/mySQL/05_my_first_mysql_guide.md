@@ -1,8 +1,5 @@
----
-title: My First MySQL Guide
-description: My first MySQL database interection using python
-sidebar_position: 5
----
+# My First MySQL Guide
+## My first MySQL database interection using python
 
 ## Here's the tutorial with brief explanations for different mysql operations
 

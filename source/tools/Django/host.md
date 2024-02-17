@@ -1,8 +1,6 @@
----
-title: Allowed hosts
-description: Use Allowed hosts
-sidebar_position: 1
----
+# Allowed hosts
+## Use Allowed hosts
+
 
 The `ALLOWED_HOSTS` setting in Django is used to specify a list of valid host/domain names that can be used to serve the Django application. This setting is a security measure to prevent HTTP Host header attacks. You should add the host/domain names that you expect your Django application to be accessed from.
 

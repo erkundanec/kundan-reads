@@ -1,5 +1,5 @@
 Finance
-=========
+=======
 
 In this section, terms/topic related to finance are covered.
 
@@ -7,7 +7,12 @@ In this section, terms/topic related to finance are covered.
     :maxdepth: 3
     :hidden:
 
-    measuring-momentum
+    portfolio/index
+    financial_derivatives/index
     financial_terms/index
+    
+    long-short-strategy
+    measuring-momentum
+
 
 

@@ -1,11 +1,5 @@
----
-id: my-doc-id
-title: Git and Github
-description: A complete guide of how to use git and github
-slug: /git-github
-sidebar_position: 2
----
-
+# Git and Github
+## A complete guide of how to use git and github
 ## List of important Commands
 
 1. git switch main                  git checkout main
@@ -174,7 +168,7 @@ git stash -k
 git stash apply
 ```
 
-# How to undo all the changes after last commit
+## How to undo all the changes after last commit
 
 If you want to undo all the changes made after the last commit and revert your working directory to the state of the last commit, you can use the **`git reset`** command combined with the **`--hard`** option. Here are the steps:
 

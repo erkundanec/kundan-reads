@@ -1,8 +1,6 @@
----
-title: MySQL command line client
-description: Connect to MySQL Server through command line client
-sidebar_position: 1
----
+# MySQL command line client
+## Connect to MySQL Server through command line client
+
 
 To connect to a MySQL server through the command-line client, you can use the `mysql` command. Here are the steps:
 

@@ -1,18 +1,4 @@
----
-id: managed_futures
-title: Managed Futures
-description: Managed Futures
-
-authors:
-  name: Kundan Kumar
-  title: Data Scientist
-  url: https://github.com/erkundanec
-  image_url: https://github.com/erkundanec.png
-sidebar_position: 12
-
-tags: [managed_futures]
----
-
+# Managed Futures
 ## Introduction
 Managed futures involve the active management of a portfolio of futures contracts by professional investors. This investment strategy is considered an alternative approach, often favored by funds and institutional investors seeking to achieve both portfolio and market diversification.
 

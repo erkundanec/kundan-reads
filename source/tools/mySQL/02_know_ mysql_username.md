@@ -1,8 +1,6 @@
----
-title: How to know MySQL username
-description: How to know MySQL username
-sidebar_position: 2
----
+# How to know MySQL username
+##  How to know MySQL username
+
 
 ## How to know my mysql username?
 To find out your MySQL username, you can follow these steps:

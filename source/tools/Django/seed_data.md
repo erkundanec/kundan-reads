@@ -1,9 +1,5 @@
----
-title: How to seed-data in django app
-description: Seed_Data
-sidebar_position: 4
----
-
+# Seed_Data
+## How to seed-data in django app
 Seeding data in a Django app typically involves creating initial data for your database, which can be useful for testing, development, or populating default values. There are a few approaches you can take to seed data in a Django app:
 
 1. **Django Fixtures:**

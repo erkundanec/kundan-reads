@@ -1,13 +1,6 @@
----
-id: activation_func
-title: Activation Function
-description: A complete guide of how to use git and github
-sidebar_position: 12
----
+# Activation Function
 
-# Activation Functions
-
-> "This is a quote and I don't know who said this."
+## Activation Functions
 
 ## What is an Activation Function?
 

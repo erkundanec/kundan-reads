@@ -1,8 +1,5 @@
----
-title: Basics of time series analysis
-description: Basics of time series analysis
-sidebar_position: 2
----
+# Basics of time series analysis
+## Basics of time series analysis
 
 A Time Series is a data series indexed by time. In the realm of Finance, a time series records the fluctuations of specific data points, such as the price of a security, over a defined duration with data recorded at consistent intervals.
 

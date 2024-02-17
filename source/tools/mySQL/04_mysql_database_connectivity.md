@@ -1,8 +1,6 @@
----
-title: MySQL database connectivity
-description: MySQL database connectivity using python
-sidebar_position: 4
----
+# MySQL database connectivity
+## MySQL database connectivity using python
+
 
 ## Install mysql.connector
 To use python mysql.connector, first install the library using pip

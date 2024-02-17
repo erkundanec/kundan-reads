@@ -1,9 +1,7 @@
----
-id: long-short-strategy
-title: Long-Short Equity Strategy
-description: Long-Short Equity Strategy
-sidebar_position: 12
----
+# Long-Short Equity Strategy
+## Long-Short Equity Strategy
+
+
 
 ## Long-Short Equity Strategy using Ranking: : Simple Trading Strategies Part 4
 

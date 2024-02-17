@@ -1,8 +1,5 @@
----
-title: Containerizing a Django application using Docker
-description: Containerizing a Django application using Docker
-sidebar_position: 1
----
+# Containerizing a Django application using Docker
+## Containerizing a Django application using Docker
 
 ## How to containerize django application using docker and deploy on cloud
 (Use gunicorn)

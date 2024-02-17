@@ -1,6 +1,5 @@
----
-title: Gunicorn
-description: Use "gunicorn apipy.wsgi:application" instead of "manage.py runserver"
+# Gunicorn
+## Use "gunicorn apipy.wsgi:application" instead of "manage.py runserver"
 sidebar_position: 1
 ---
 

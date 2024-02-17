@@ -1,9 +1,5 @@
----
-id: logistic_regression
-title: Logistic Regression
-description: Logistic Regression
-sidebar_position: 3
----
+# Logistic Regression
+## Logistic Regression
 
 ## Logistic Regression: Unraveling Classification with Precision
 

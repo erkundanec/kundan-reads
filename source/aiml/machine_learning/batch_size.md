@@ -1,9 +1,5 @@
----
-title: Batch Size
-description: A complete guide of how to use git and github
-sidebar_position: 2
----
 # Batch Size
+## A complete guide of how to use git and github
 
 ## Introduction
 The batch size refers to the number of samples passed through the model before optimizing it. The gradient for each sample is either summed or averaged and then used to update the parameters. This process continues for the next batch, and so on. A common question is, "should I use powers of 2 when choosing the size of a batch size when training my Neural Network?"

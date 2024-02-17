@@ -1,8 +1,6 @@
----
-title: MySQL commands
-description: Some of the most used MySQL commands
-sidebar_position: 3
----
+# MySQL commands
+## Some of the most used MySQL commands
+
 ## Command line inputs:
 ```
 status

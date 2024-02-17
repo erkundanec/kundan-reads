@@ -1,9 +1,5 @@
----
-id: intro
-title: Introduction
-description: Types of machine learning algorithms
-sidebar_position: 1
----
+# Introduction
+## Types of machine learning algorithms
 
 # Introduction
 Broadly, there are 3 types of Machine Learning Algorithms.

@@ -1,9 +1,5 @@
----
-id: counterparty_risk
-title: Counterparty Risk
-description: Counterparty Risk
-sidebar_position: 04
----
+# Counterparty Risk
+## Counterparty Risk
 
 Counterparty risk is like lending money to a friend who might not pay you back. In finance, it's when one party in a deal may not meet their obligations, leaving the other party at risk of losing money. To avoid this, you might check their financial status, ask for something valuable as security, or use contracts that ensure you'll get paid even if they default.
 

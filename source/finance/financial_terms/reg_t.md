@@ -1,9 +1,5 @@
----
-id: reg_t1
-title: Regulation T
-description: Regulation T
-sidebar_position: 02
----
+# Regulation T
+### Regulation T
 
 Regulation T is like a rulebook for how people can buy stocks with borrowed money, called buying on margin. It says that if you want to borrow money from a broker to buy stocks, you can only borrow up to 50% of the stock's price. The rest, 50%, you have to pay in cash from your own pocket.
 

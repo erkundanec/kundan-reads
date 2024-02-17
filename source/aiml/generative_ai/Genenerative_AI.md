@@ -1,14 +1,6 @@
----
-sidebar_position: 1
----
-
 # Introduction to Generative AI
 
 ## Table of Contents
-- [Introduction to Generative AI](#introduction-to-generative-ai)
-  * [Introduction to Generative AI](#introduction-to-generative-ai-1)
-  * [Artificial Intelligence](#artificial-intelligence)
-  
 ## Introduction to Generative AI
 
 ### Introduction to Generative AI

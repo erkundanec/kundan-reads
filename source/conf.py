@@ -1,10 +1,10 @@
 # -- Project information ---------------------------------------------------------------
 # https://www.sphinx-doc.org/en/master/usage/configuration.html#project-information
 
-project = "Python Packaging User Guide"
+project = "Kundan's Read"
 
-copyright = "2013–2020, PyPA"
-author = "Python Packaging Authority"
+copyright = "2023–2024, Kundan"
+author = "Kundan Kumar"
 
 # -- General configuration -------------------------------------------------------------
 # https://www.sphinx-doc.org/en/master/usage/configuration.html#general-configuration
@@ -51,7 +51,7 @@ gettext_location = True
 # -- Options for HTML output -----------------------------------------------------------
 # https://www.sphinx-doc.org/en/master/usage/configuration.html#options-for-html-output
 
-html_title = "Python Packaging User Guide"
+html_title = "Kundan's Read"
 html_theme = "furo"
 
 html_favicon = "assets/py.png"
@@ -80,7 +80,7 @@ latex_documents = [
 # https://www.sphinx-doc.org/en/master/usage/configuration.html#options-for-manual-page-output
 
 man_pages = [
-    (root_doc, "pythonpackagingguide", "Python Packaging User Guide", [author], 1)
+    (root_doc, "pythonpackagingguide", "Kundan's Read", [author], 1)
 ]
 
 # -- Options for Texinfo output --------------------------------------------------------
@@ -90,7 +90,7 @@ texinfo_documents = [
     (
         root_doc,
         "pythonpackagingguide",
-        "Python Packaging User Guide",
+        "Kundan's Read",
         author,
         "pythonpackagingguide",
         "One line description of project.",
@@ -122,8 +122,8 @@ linkcheck_anchors_ignore_for_url = [
 # https://www.sphinx-doc.org/en/master/usage/extensions/extlinks.html#configuration
 
 github_url = "https://github.com"
-github_repo_org = "pypa"
-github_repo_name = "packaging.python.org"
+github_repo_org = "erkundanec"
+github_repo_name = "kundan-reads"
 github_repo_slug = f"{github_repo_org}/{github_repo_name}"
 github_repo_url = f"{github_url}/{github_repo_slug}"
 github_repo_issues_url = f"{github_url}/{github_repo_slug}/issues"

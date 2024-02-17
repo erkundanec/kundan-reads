@@ -1,8 +1,6 @@
----
-title: Git and Github
-description: A complete guide of how to use git and github
-sidebar_position: 2
----
+# Git and Github
+## A complete guide of how to use git and github
+
  Git is an open-source distributed version control system, freely available, and is the backbone of all GitHub-related actions that occur locally on your computer. This article compiles the key and commonly used Git commands for quick and convenient reference.
 
 ## List of important commands

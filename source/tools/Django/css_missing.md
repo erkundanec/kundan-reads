@@ -1,8 +1,6 @@
----
-title: CSS Missing in Admin
-description: CSS Missing in Admin
-sidebar_position: 1
----
+# CSS Missing in Admin
+## CSS Missing in Admin
+
 
 If the CSS is missing when you access the Django admin interface, it may be due to incorrect static files configuration or the development server not serving static files properly. Here are some steps you can take to troubleshoot and fix the issue:
 

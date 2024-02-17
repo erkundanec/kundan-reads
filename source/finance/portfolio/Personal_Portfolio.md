@@ -1,11 +1,4 @@
----
-id: along-short-strategy
-title: aLong-Short Equity Strategy
-description: aLong-Short Equity Strategy
-sidebar_position: 34
-image: "../img/AF001.png"
-# draft: true
----
+# Long-Short Equity
 
 ## Personal Portfolio Simulation
 

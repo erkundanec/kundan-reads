@@ -1,11 +1,6 @@
----
-id: realized_volatility
-title: Realized Volatiltiy
-description: Actual price fluctuations of a financial instrument.
-sidebar_position: 12
----
-
 # Realized Volatiltiy
+## Realized Volatiltiy
+## Volatiltiy Actual price fluctuations of a financial instrument.
 
 Realized volatility is a measure of the actual price fluctuations of a financial instrument over a specified period of time. It is calculated using historical price data and provides insights into the actual volatility experienced by an asset rather than relying on implied volatility from options pricing. The significance of realized volatility in the stock market lies in its various applications for investors, traders, and risk managers. Here are some ways it can be used:
 

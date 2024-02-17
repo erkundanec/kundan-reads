@@ -1,8 +1,6 @@
----
-title: Frequent Commands
-description: Frequent Commands
-sidebar_position: 1
----
+# Frequent Commands
+## Frequent Commands
+
 
 ```bash
 .\django_env\Scripts\activate

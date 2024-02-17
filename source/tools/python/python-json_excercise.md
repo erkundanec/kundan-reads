@@ -1,8 +1,5 @@
----
-title: Python-JSON excercise
-description: Python-JSON excercise
-sidebar_position: 13
----
+# Python-JSON excercise
+## Python-JSON excercise
 
 ### Exercise 1: Convert the following dictionary into JSON format
 **Question:**

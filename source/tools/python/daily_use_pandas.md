@@ -1,8 +1,5 @@
----
-title: Daily use of Pandas
-description: A Comprehensive Guide to Pandas
-sidebar_position: 2
----
+# Daily use of Pandas
+## A Comprehensive Guide to Pandas
 
 ## A Comprehensive Guide to Pandas: From Basics to Advanced
 

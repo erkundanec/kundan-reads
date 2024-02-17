@@ -1,11 +1,8 @@
----
-id: linear_regression
-title: Linear Regression
-description: Linear Regression in Machine Learning
-sidebar_position: 2
----
+# Linear Regression
+## Linear Regression in Machine Learning
 
-# Understanding Linear Regression in Machine Learning
+
+## Understanding Linear Regression in Machine Learning
 
 ## Introduction
 

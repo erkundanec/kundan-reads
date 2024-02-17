@@ -1,9 +1,5 @@
----
-id: regularization
-title: Regularization
-description: Regularization
-sidebar_position: 21
----
+# Regularization
+## Regularization
 
 ## Introduction
 

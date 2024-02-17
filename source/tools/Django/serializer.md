@@ -1,8 +1,5 @@
----
-title: What is django serializer
-description: What is django serializer
-sidebar_position: 1
----
+# What is django serializer
+## What is django serializer
  
 In Django, a serializer is a component that facilitates the conversion of complex data types, such as Django models or querysets, into Python data types that can be easily rendered into JSON or other content types. Serializers also handle the reverse process, allowing the conversion of incoming data in JSON format back into complex data types.
 

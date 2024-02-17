@@ -1,8 +1,6 @@
----
-title: JSON
-description: JSON (JavaScript Object Notation) 
-sidebar_position: 13
----
+# JSON
+## JSON (JavaScript Object Notation) 
+
 
 
 ## Introduction

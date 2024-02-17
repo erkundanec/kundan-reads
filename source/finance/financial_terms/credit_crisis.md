@@ -1,9 +1,5 @@
----
-id: credit_crisis
-title: Credit Crisis
-description: Credit Crisis
-sidebar_position: 01
----
+# Credit Crisis
+## Credit Crisis
 
 A credit crisis is a financial situation characterized by a sudden and severe shortage of credit or liquidity in financial markets, making it difficult or even impossible for individuals, businesses, and governments to obtain loans or access funding. This shortage of credit typically leads to a cascade of negative effects, such as bankruptcies, layoffs, decreased consumer spending, and economic recession or depression.
 
@@ -13,7 +9,7 @@ The most notable recent credit crisis was the global financial crisis of 2007-20
 
 Credit crises can have far-reaching consequences and often require intervention from central banks, governments, and international organizations to stabilize financial markets and restore confidence. Measures such as interest rate cuts, liquidity injections, bank bailouts, and fiscal stimulus programs are commonly used to mitigate the impact of credit crises and support economic recovery.
 
-## Relation with elevated market volatility
+### Relation with elevated market volatility
 
 A credit crisis often leads to elevated market volatility because it creates uncertainty and instability in financial markets. When there's a shortage of credit or liquidity, investors become hesitant to buy assets or lend money, leading to sharp price fluctuations and increased trading activity as market participants react to changing conditions.
 
@@ -23,5 +19,5 @@ Furthermore, credit crises can have ripple effects across different asset classe
 
 Overall, the relationship between credit crises and elevated market volatility is characterized by a feedback loop: the crisis increases volatility, which in turn can exacerbate the crisis by eroding investor confidence and exacerbating market stress.
 
-## Summary
+### Summary
 A credit crisis is a severe shortage of credit or liquidity in financial markets, making it hard for individuals, businesses, and governments to get loans. It often leads to bankruptcies, layoffs, decreased spending, and economic recession. Causes include defaults, asset collapses, and loss of investor confidence. The 2007-2008 global financial crisis was a significant example, triggered by the U.S. subprime mortgage market collapse. Credit crises require intervention from central banks and governments to stabilize markets and restore confidence, often through measures like interest rate cuts, liquidity injections, and bailouts.

@@ -1,9 +1,7 @@
----
-title: PostgreSQL
-description: PostgreSQL Installation, Configuration, and Usage
-sidebar_position: 6
----
 
+
+# PostgreSQL
+## PostgreSQL Installation, Configuration, and Usage
 
 To use PostgreSQL, you'll need to follow these general steps: installation, configuration, and basic usage. Here are step-by-step instructions for installing and configuring PostgreSQL:
 

@@ -1,11 +1,6 @@
----
-id: ensemble_learning
-title: Ensemble Learning
-description: Ensemble Learning
-sidebar_position: 22
----
-
 # Ensemble Learning
+
+## Ensemble Learning
 
 ## Introduction
 
