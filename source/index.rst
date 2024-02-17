@@ -7,13 +7,12 @@ Python Packaging User Guide
    :keywords: python, packaging, guide, tutorial
 
 .. toctree::
-   :maxdepth: 2
+   :maxdepth: 3
    :hidden:
 
    overview
    flow
-   tutorials/index
-   guides/index
+   finance/index
    discussions/index
    specifications/index
    key_projects

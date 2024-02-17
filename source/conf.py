@@ -19,6 +19,7 @@ extensions = [
     "sphinx_copybutton",
     "sphinx_toolbox.collapse",
     'nbsphinx',
+    'myst_parser',
 ]
 
 nitpicky = True
