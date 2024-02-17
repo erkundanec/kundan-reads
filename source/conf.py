@@ -18,6 +18,7 @@ extensions = [
     "sphinx_inline_tabs",
     "sphinx_copybutton",
     "sphinx_toolbox.collapse",
+    'nbsphinx',
 ]
 
 nitpicky = True

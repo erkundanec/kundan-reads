@@ -5,6 +5,8 @@
 Project Summaries
 =================
 
+.. nbinclude:: Measuring Momentum.ipynb
+
 Summaries and links for the most relevant projects in the space of Python
 installation and packaging.
 
