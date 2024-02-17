@@ -1,6 +1,4 @@
 # Introduction to Generative AI
-
-## Table of Contents
 ## Introduction to Generative AI
 
 ### Introduction to Generative AI
@@ -31,14 +29,14 @@ Two primary classes of machine learning models are:
 
 Consider a scenario where a restaurant owner, armed with historical data on bill amounts and tips based on order types and delivery methods, employs supervised learning. The model, learning from past examples, predicts future values, such as tips, based on total bill amounts and delivery specifics.
 
-# Unsupervised Learning
+## Unsupervised Learning
 
 ![Unsupervised Learning](img/unsupervised_learning.png)
 *Figure 3: Unsupervised Learning*
 
 Unsupervised learning tackles problems like clustering employees based on tenure and income to discern patterns within raw data. This approach is all about discovery, exploring data to identify natural groupings without predefined labels.
 
-# Learning Process
+## Learning Process
 
 ![Learning Process](img/Both_Sup_Unsup.png)
 *Figure 4: Learning Process*
@@ -52,7 +50,7 @@ To deepen our understanding, let's delve graphically into the learning process. 
 
 Now, let's progress to the focal point of this exploration—Generative AI. Operating as a subset of deep learning, Generative AI utilizes artificial neural networks capable of processing both labeled and unlabeled data through supervised, unsupervised, and semi-supervised methods.
 
-# Large Language Model
+## Large Language Model
 
 ![Large Language Model](img/LLM.png)
 *Figure 6: Large Language Model*
