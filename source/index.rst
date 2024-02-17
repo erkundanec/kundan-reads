@@ -26,3 +26,5 @@ Here, you'll find everything you need to thrive in these dynamic fields. Whether
 Join our inclusive community of learners, practitioners, and experts as we navigate the exciting landscapes of data science and full-stack development together. Whether you're aiming to advance your career, tackle new challenges, or simply expand your knowledge, we're here to provide the support and resources you need to succeed.
 
 Begin your journey today and unlock the boundless opportunities awaiting you in the ever-evolving worlds of data science and full-stack development.
+
+sphinx-build -b html './source' 'builddir'
