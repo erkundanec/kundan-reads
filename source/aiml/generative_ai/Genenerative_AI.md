@@ -10,7 +10,7 @@ Generative AI stands as a pinnacle within artificial intelligence technology, ca
 Before immersing ourselves in the intricacies of generative artificial intelligence, it is crucial to establish a foundational understanding of artificial intelligence. Frequently, inquiries arise regarding the nature of artificial intelligence and the distinctions between AI and machine learning.
 
 ![AI and Machine Learning](img/AI_ML.png)
-*Figure 1: AI and Machine Learning*
+*Figure 1: AI and Machine Learning (source - <a href = "https://www.cloudskillsboost.google/course_templates/536" target="_blank">https://www.cloudskillsboost.google/course_templates/536</a>)*
 
 Artificial Intelligence (AI) can be likened to a discipline, akin to physics, within the vast landscape of computer science. It deals with the creation of intelligent agents—systems that possess the ability to reason, learn, and act autonomously. In essence, AI revolves around the theoretical frameworks and methodologies for constructing machines capable of thinking and behaving like humans.
 
@@ -25,35 +25,35 @@ Two primary classes of machine learning models are:
 - **Unsupervised Machine Learning:** In contrast, unsupervised models are trained on unlabeled data, devoid of predefined tags.
 
 ![Supervised Learning](img/sup_learning.png)
-*Figure 2: Supervised Learning*
+*Figure 2: Supervised Learning (source - <a href = "https://www.cloudskillsboost.google/course_templates/536" target="_blank">https://www.cloudskillsboost.google/course_templates/536</a>)*
 
 Consider a scenario where a restaurant owner, armed with historical data on bill amounts and tips based on order types and delivery methods, employs supervised learning. The model, learning from past examples, predicts future values, such as tips, based on total bill amounts and delivery specifics.
 
 ## Unsupervised Learning
 
 ![Unsupervised Learning](img/unsupervised_learning.png)
-*Figure 3: Unsupervised Learning*
+*Figure 3: Unsupervised Learning (source - <a href = "https://www.cloudskillsboost.google/course_templates/536" target="_blank">https://www.cloudskillsboost.google/course_templates/536</a>)*
 
 Unsupervised learning tackles problems like clustering employees based on tenure and income to discern patterns within raw data. This approach is all about discovery, exploring data to identify natural groupings without predefined labels.
 
 ## Learning Process
 
 ![Learning Process](img/Both_Sup_Unsup.png)
-*Figure 4: Learning Process*
+*Figure 4: Learning Process (source - <a href = "https://www.cloudskillsboost.google/course_templates/536" target="_blank">https://www.cloudskillsboost.google/course_templates/536</a>)*
 
 To deepen our understanding, let's delve graphically into the learning process. In supervised learning, testing data values (x) are input into the model. The model produces a prediction, compared to the training data. If the predicted and actual values differ significantly, it's termed as error. The model minimizes this error, refining predictions until they align closely with actual values—a classic optimization problem.
 
 ## Generative AI
 
 ![Generative AI](img/GenAI.png)
-*Figure 5: Generative AI*
+*Figure 5: Generative AI (source - <a href = "https://www.cloudskillsboost.google/course_templates/536" target="_blank">https://www.cloudskillsboost.google/course_templates/536</a>)*
 
 Now, let's progress to the focal point of this exploration—Generative AI. Operating as a subset of deep learning, Generative AI utilizes artificial neural networks capable of processing both labeled and unlabeled data through supervised, unsupervised, and semi-supervised methods.
 
 ## Large Language Model
 
 ![Large Language Model](img/LLM.png)
-*Figure 6: Large Language Model*
+*Figure 6: Large Language Model (source - <a href = "https://www.cloudskillsboost.google/course_templates/536" target="_blank">https://www.cloudskillsboost.google/course_templates/536</a>)*
 
 Within the realm of Generative AI, large language models play a pivotal role. These models, another subset of deep learning, contribute significantly to the capabilities and applications of generative AI.
 
@@ -65,7 +65,7 @@ Deep learning models, encompassing generative AI and beyond, can be broadly cate
 - **Discriminative Models**
 
 ![Types of Deep Learning Models](img/DL_Types.png)
-*Figure 7: Types of Deep Learning Models*
+*Figure 7: Types of Deep Learning Models (source - <a href = "https://www.cloudskillsboost.google/course_templates/536" target="_blank">https://www.cloudskillsboost.google/course_templates/536</a>)*
 
 These models form the cornerstone of advanced AI applications, each serving distinct purposes and contributing to the broader landscape of artificial intelligence.
 
@@ -78,7 +78,7 @@ A discriminative model is a classification or prediction model used to assign la
 In contrast, a generative model generates new data instances based on a learned probability distribution derived from existing data. Generative models have the capability to create entirely new content.
 
 ![Differences Between Discriminative and Generative Models](img/diff_Disc_Gen.png)
-*Figure 1: Differences Between Discriminative and Generative Models*
+*Figure 1: Differences Between Discriminative and Generative Models (source - <a href = "https://www.cloudskillsboost.google/course_templates/536" target="_blank">https://www.cloudskillsboost.google/course_templates/536</a>)*
 
 Consider the illustration above. In a discriminative model, the focus is on learning the conditional probability distribution or the probability of output (y) given input (x), enabling it to classify the input as a specific category, such as identifying a dog rather than a cat. On the other hand, a generative model learns the joint probability distribution, representing the probability of both input (x) and output (y). It can then predict the conditional probability that an input is associated with a particular output, allowing it to generate entirely new instances, such as creating a picture of a dog.
 
@@ -86,12 +86,12 @@ Consider the illustration above. In a discriminative model, the focus is on lear
 **So to summarize, generative models can generate new data instances while discriminative models discriminate between different kinds of data instances.**
 
 ![Generative vs Discriminative Models](img/Gen_Des.png)
-*Figure 1: Generative vs Discriminative Models*
+*Figure 1: Generative vs Discriminative Models (source - <a href = "https://www.cloudskillsboost.google/course_templates/536" target="_blank">https://www.cloudskillsboost.google/course_templates/536</a>)*
 
 The top image shows a traditional machine learning model that attempts to learn the relationship between the data and the label. The bottom image shows a generative AI model that attempts to learn patterns in content so that it can generate new content.
 
 ![Generative AI vs Not Generative AI](img/GenAI_notGenAI.png)
-*Figure 2: Generative AI vs Not Generative AI*
+*Figure 2: Generative AI vs Not Generative AI (source - <a href = "https://www.cloudskillsboost.google/course_templates/536" target="_blank">https://www.cloudskillsboost.google/course_templates/536</a>)*
 
 A good way to distinguish what is gen AI and what is not is shown in this illustration. It is not gen AI when the output (y or label) is a number or a class (e.g., spam or not spam). It is gen AI when the output is natural language, like speech or text, an image, or audio.
 
