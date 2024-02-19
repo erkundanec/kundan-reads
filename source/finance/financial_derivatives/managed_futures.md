@@ -1,5 +1,7 @@
 # Managed Futures
 ## Introduction
+![AI and Machine Learning](../../img/managed-futures-trading.png)
+
 Managed futures involve the active management of a portfolio of futures contracts by professional investors. This investment strategy is considered an alternative approach, often favored by funds and institutional investors seeking to achieve both portfolio and market diversification.
 
 The primary advantage of managed futures lies in their ability to provide portfolio diversification. This is achieved by offering exposure to various asset classes, thereby helping to mitigate overall portfolio risk. Unlike direct capital investments such as stocks and bonds, managed futures contribute to a more resilient and well-rounded investment portfolio.
