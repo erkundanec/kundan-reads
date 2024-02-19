@@ -1,8 +1,11 @@
 import subprocess
+import warnings
+import os
 
 def build_sphinx_html(source_dir, build_dir):
     try:
-        subprocess.run(["sphinx-build", "-b", "html", source_dir, build_dir], check=True)
+        with open(os.devnull, 'w') as null:
+            subprocess.run(["sphinx-build", "-b", "html", source_dir, build_dir], check=True, stderr=null)
         print("Sphinx build completed successfully!")
     except subprocess.CalledProcessError as e:
         print(f"Error: Sphinx build failed with error code {e.returncode}")
