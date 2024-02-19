@@ -12,10 +12,7 @@ AI-ML
 
 
 Exploring AI-ML: The Magic of Reading in Tech World
-===================================================
-
-Making Sense of Tech, Empowering Minds
---------------------------------------
+---------------------------------------------------
 
 Introduction:
 ^^^^^^^^^^^^^
