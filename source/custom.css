@@ -1,0 +1,5 @@
+.wy-breadcrumbs > li:first-child::before {
+    content: "\f015"; /* Unicode for home icon, you may need to adjust based on the icon library you're using */
+    font-family: FontAwesome; /* Use the appropriate font family */
+    margin-right: 5px; /* Adjust spacing as needed */
+}
