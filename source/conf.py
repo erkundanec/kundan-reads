@@ -182,5 +182,4 @@ todo_include_todos = True
 copybutton_prompt_text = r">>> |\.\.\. |\$ |> "
 copybutton_prompt_is_regexp = True
 
-html_css_files = ['custom.css']
 
