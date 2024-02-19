@@ -1,5 +1,5 @@
 import subprocess
-import warnings
+# import warnings
 import os
 
 def build_sphinx_html(source_dir, build_dir):
