@@ -15,4 +15,5 @@ Tools
    git/index
 
    PostgreeSQL
+   how-publish-pypi-package
    

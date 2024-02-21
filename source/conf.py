@@ -52,7 +52,8 @@ gettext_location = True
 # https://www.sphinx-doc.org/en/master/usage/configuration.html#options-for-html-output
 
 html_title = "Kundan's Read"
-html_theme = "furo"
+# html_theme = "furo"
+html_theme = "pydata_sphinx_theme"
 
 html_favicon = "assets/py.png"
 html_last_updated_fmt = ""
@@ -181,5 +182,7 @@ todo_include_todos = True
 
 copybutton_prompt_text = r">>> |\.\.\. |\$ |> "
 copybutton_prompt_is_regexp = True
+
+html_show_sourcelink = False
 
 
