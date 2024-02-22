@@ -1,4 +1,10 @@
 # 2024-02-22: Understanding nvidia-smi
+<div style="text-align:center;">
+  <img src="./img/nvidia-smi.png" style="border-radius: 50%; width: 150px; height: 150px;" alt="Writer Image">
+  <p style="font-style: italic;">Date: [Your Date]</p>
+  <p style="font-style: italic;">Role: [Your Role]</p>
+</div>
+
 
 ## Introduction
 

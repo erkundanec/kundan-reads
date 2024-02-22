@@ -10,7 +10,6 @@ AI-ML
     machine_learning/index
     reinforcement_learning/index
 
-
 Welcome to our ReadTheDocs page, where we uncover how reading can help us understand Artificial Intelligence and Machine Learning (AI-ML) better. In a world where technology is growing fast, reading helps us navigate through the complex world of AI-ML. Let's dive in and see how reading can spark innovation, boost our understanding, and shape the future of AI-ML.
 
 Understanding AI-ML Step by Step:
