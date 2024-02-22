@@ -1,4 +1,4 @@
-# 2023-01-21
+# 2023-01-21: mySQL and Python
 ## mySQL and Python
 
 To install MySQL on Windows and write Python code in Visual Studio Code (VSCode) with MySQL integration, follow these steps:

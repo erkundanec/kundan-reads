@@ -18,5 +18,6 @@ Blog
    2024-01-21-how_to_use_docusaurus
    2024-02-05-innovator's_dilemma
    2024-02-15-ipynb-to-md
-
+   2024-02-22-nvidia-smi
+..
    

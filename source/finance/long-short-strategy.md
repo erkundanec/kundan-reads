@@ -3,7 +3,7 @@
 
 
 
-## when to short any stock
+## When to short any stock
 
 Deciding when to short a stock can be complex and involves careful analysis. Here are some factors that traders often consider:
 

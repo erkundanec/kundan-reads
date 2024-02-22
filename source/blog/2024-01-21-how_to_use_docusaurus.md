@@ -1,4 +1,4 @@
-# 2024-01-21
+# 2024-01-21: About Docusaurus
 ## How to use docusaurus
 
 ## Start Docusaurus project

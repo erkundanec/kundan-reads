@@ -1,4 +1,4 @@
-# 2024-02-05
+# 2024-02-05: Innovator's Dilemma
 ## innovator's dilemma
 
 ## Embracing Disruption: Navigating the Innovator's Dilemma
