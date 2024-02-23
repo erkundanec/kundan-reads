@@ -51,7 +51,7 @@ gettext_location = True
 # -- Options for HTML output -----------------------------------------------------------
 # https://www.sphinx-doc.org/en/master/usage/configuration.html#options-for-html-output
 
-html_title = "Kundan's Read"
+html_title = '<i class="fas fa-home"></i> Kundan\'s Read'
 # html_theme = "furo"
 html_theme = "pydata_sphinx_theme"
 
