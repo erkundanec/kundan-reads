@@ -58,6 +58,8 @@ html_theme = "pydata_sphinx_theme"
 html_favicon = "assets/py.png"
 html_last_updated_fmt = ""
 
+
+
 # -- Options for HTML help output ------------------------------------------------------
 # https://www.sphinx-doc.org/en/master/usage/configuration.html#options-for-html-help-output
 
@@ -185,13 +187,10 @@ copybutton_prompt_is_regexp = True
 
 html_show_sourcelink = False
 
-# These folders are copied to the documentation's HTML output
-# html_static_path = ['_static']
 
-# These paths are either relative to html_static_path
-# or fully qualified paths (eg. https://...)
-# html_css_files = [
-#     'css/custom.css',
-# ]
+html_static_path = ['_static']
 
+html_css_files = [
+    'css/custom.css',
+]
 
