@@ -8,5 +8,6 @@ In this section, terms/topic related to finance are covered.
     :hidden:
 
     Genenerative_AI
+    dcgan_gen_faces
 
 
