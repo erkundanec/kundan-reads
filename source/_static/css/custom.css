@@ -2,12 +2,15 @@
 h1 {
   color: #0057b4;
   font-size: 32px;
+  font-weight: bold;
 }
 h2 {
-    color: #068a48;
-    font-size: 28px;
-  }
+  color: #068a48;
+  font-size: 28px;
+  font-weight: bold;
+}
 h3 {
   color: #d03903;
   font-size: 24px;
+  font-weight: bold;
 }

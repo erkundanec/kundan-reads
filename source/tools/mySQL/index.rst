@@ -14,4 +14,5 @@ mySQL
    03_imp_commands
    04_mysql_database_connectivity
    05_my_first_mysql_guide
+   06_diff_mysql_db-browser-sql
    
