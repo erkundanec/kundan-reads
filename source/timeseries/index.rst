@@ -11,3 +11,6 @@ Time Series
    :hidden:
 
    basics
+   acf
+   pacf
+   adfuller_test
