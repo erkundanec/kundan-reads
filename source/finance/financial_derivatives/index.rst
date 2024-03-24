@@ -8,5 +8,6 @@ In this section, terms/topic related to finance are covered.
     :hidden:
 
     managed_futures
+    col_definitions_orats
 
 
