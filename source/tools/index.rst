@@ -13,6 +13,7 @@ Tools
    mySQL/index
    python/index
    git/index
+   seo/index
 
    PostgreeSQL
    how-publish-pypi-package
