@@ -10,6 +10,8 @@ In this section, terms/topic related to finance are covered.
     Personal_Portfolio
     realized_volatility
     risk_management
+    investment_styles
+    minimum_variance_portfolio
 
 
 
