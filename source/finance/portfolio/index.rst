@@ -12,6 +12,7 @@ In this section, terms/topic related to finance are covered.
     risk_management
     investment_styles
     minimum_variance_portfolio
+    tengency_portfolio
 
 
 
