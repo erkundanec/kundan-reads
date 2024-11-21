@@ -8,6 +8,7 @@ In this section, terms/topic related to finance are covered.
     :hidden:
 
     risk_management
+    volatility_target
 
 
 
