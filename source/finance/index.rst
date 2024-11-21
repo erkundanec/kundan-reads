@@ -8,8 +8,10 @@ In this section, terms/topic related to finance are covered.
     :hidden:
 
     portfolio/index
+    risk_management/index
     financial_derivatives/index
     financial_terms/index
+    fundamentals/index
     
     long-short-strategy
     measuring-momentum
