@@ -10,6 +10,7 @@ In this section, terms/topic related to finance are covered.
     activation_function
     batch_size
     ensemble_learning
+    random_forest_regressor
     Introduction
     linear_regression
     logistic_regression

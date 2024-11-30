@@ -18,6 +18,7 @@ In this section, terms/topic related to finance are covered.
     trading-strategy
     sector-rotation
     difference_PPI_CPI_and_PCE
+    approach_handle_outlier
     
 
 

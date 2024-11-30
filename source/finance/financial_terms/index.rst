@@ -11,3 +11,5 @@ In this section, terms/topic related to finance are covered.
     counterparty_risk
     reg_t
     ownership
+    risk_measure
+

@@ -5,6 +5,7 @@ AI-ML
     :maxdepth: 3
     :hidden:
 
+    data_preprocessing/index
     feature_engineering/index
     deep_learning/index
     generative_ai/index
