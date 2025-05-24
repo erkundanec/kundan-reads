@@ -22,6 +22,7 @@ extensions = [
     'myst_parser',
     'sphinx_design',  # for grid, dropdown, and badges
     "sphinx_togglebutton",
+    "sphinx.ext.mathjax",
 ]
 
 nitpicky = True
