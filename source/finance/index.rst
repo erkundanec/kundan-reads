@@ -19,6 +19,7 @@ In this section, terms/topic related to finance are covered.
     sector-rotation
     difference_PPI_CPI_and_PCE
     approach_handle_outlier
+    Linear_vs_linear_return
     
 
 

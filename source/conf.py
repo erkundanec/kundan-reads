@@ -20,6 +20,8 @@ extensions = [
     "sphinx_toolbox.collapse",
     'nbsphinx',
     'myst_parser',
+    'sphinx_design',  # for grid, dropdown, and badges
+    "sphinx_togglebutton",
 ]
 
 nitpicky = True
