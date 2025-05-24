@@ -197,3 +197,8 @@ html_css_files = [
     'css/custom.css',
 ]
 
+
+myst_enable_extensions = [
+    "amsmath",  # Enables $$ math blocks and \begin{align}
+    "dollarmath"  # Enables inline/block $$...$$ support
+]
