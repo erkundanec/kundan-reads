@@ -1,13 +1,12 @@
 # Linear vs Log Returns
 ## Linear vs Log Returns
 
-    X_log = np.log(1 + X_lin)
-    mu = X_log.mean().values
-    Sigma = X_log.cov().values
-
-X_lin is linear return. Why here X_log is computed? What is the advantage?
-
-Great question, Kundan!
+python
+```
+X_log = np.log(1 + X_lin)
+mu = X_log.mean().values
+Sigma = X_log.cov().values
+```
 
 In finance, transforming **linear (arithmetic) returns** to **log returns** is a common practice. Let's break down the reasons and the **advantages** of computing:
 
@@ -95,5 +94,3 @@ Sigma = X_log.cov().values
 ```
 
 This is probably part of a **multivariate model** (e.g., mean-variance optimization, portfolio simulation), where log returns are a better fit due to their statistical and mathematical properties.
-
-Let me know if you're using this in portfolio optimization or risk modeling — I can tailor the explanation further.
