@@ -9,5 +9,6 @@ In this section, terms/topic related to finance are covered.
 
     managed_futures
     col_definitions_orats
+    protective_put
 
 
